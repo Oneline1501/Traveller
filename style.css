@@ -1,0 +1,226 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-family: "Gabarito", sans-serif;
+    padding-left:150px;
+    padding-right:150px;
+}
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    padding:30px;
+    padding-top:40px;
+    align-items: center;
+}
+.navbar__s2{
+    display:flex;
+    gap:30px;
+    align-items: center;
+}
+.navbar__s1__title{
+    color:#002B11;
+}
+.navigation{
+    padding: 20px;
+    text-align: center;
+}
+.navigation__title{
+    font-size:45px;
+    color:#002B11;
+}
+.navigation__navbar{
+    display:flex;
+    gap:3%;
+    padding-top:30px;
+}
+.navigation__navbar p{
+    padding-left:120px;
+    padding-top:30px;
+    padding-bottom: 20px;
+}
+.navigation__search input{
+    border:solid black 1px;
+    border-radius:30px;
+    width:60%;
+    padding:25px;
+}
+.offer{
+    display: flex;
+    justify-content: space-between;
+    gap:5%;
+    background-color: #B2FF1A;
+    width:100%;
+    height:450px;
+    border-radius:10px;
+margin-top: 30px;
+}
+.offer__s1 img{
+    width:500px;
+    height:400px;
+    padding:20px;
+}
+.offer__s2{
+    padding-right:100px;
+    padding-top:130px;
+}
+.offer__s2 h1{
+    font-size:45px;
+}
+.intrest{
+    margin-top:70px;
+}
+.intrest__card{
+    display:flex;
+    justify-content:space-between;
+    margin-top:20px;
+    
+}
+.intrest__card img{
+    width:290px;
+    height:250px;
+    border-radius:5px;
+}
+.intrest p{
+    padding-top:10px;
+}
+.food{
+    margin-top: 15%;
+}
+.food__container{
+    display: flex;
+    justify-content:space-between;
+    margin-top:10px;
+}
+.food__card img{
+    width:290px;
+    height:250px;
+    border-radius:5px;
+}
+.Europe{
+    margin-top:10%;
+}
+.Europe__container{
+    display: flex;
+    justify-content:space-between;
+    gap:1.5%
+}
+.Europe__card img{
+    width:290px;
+    height: 250px;
+    border-radius:5px;
+}
+.chennai{
+    margin-top: 10%;
+}
+.chennai__container{
+    display:flex;
+    justify-content:space-between;
+    gap:1.5%;
+}
+.chennai__card img{
+    width:290px;
+    height:250px;
+    border-radius:5px;
+}
+.donate{
+    display: flex;
+    justify-content: space-between;
+    background-color:aquamarine;
+    gap:20%;
+    border-radius: 30px;
+    margin-top: 10%;
+    height:500px;;
+}
+.donate__s1 img{
+    width:500px;
+    height:300px;
+    padding-left: 40px;
+    padding-top:30px;
+}
+.donate__s1,.donate__s2{
+    padding:10px;
+}
+.donate__s2{
+    padding-top:60px;
+    padding-right: 10%;
+}
+.inspiration{
+    margin-top: 15%;
+}
+.inspiration__container{
+    display:flex;
+    justify-content:space-between;
+}
+.inspiration__card img{
+    width:390px;
+    height:250px;
+    border-radius:5px;
+}
+.awards{
+    display: flex;
+    justify-content: space-between;
+    background-color:orchid;
+    gap:15%;
+    border-radius:30px;
+    margin-top: 10%;
+    height: 400px;
+}
+.awards__s2 img{
+    width:500px;
+    height:300px;
+padding-right:20%;
+padding-top: 20px;
+}
+.awards__s1{
+    padding-top:40px;
+    padding-left:10%;
+}
+.park{
+    margin-top: 10%;
+}
+.park__container{
+    display:flex;
+    justify-content:space-between;
+    gap:1.5%
+}
+.park__card img{
+    width:290px;
+    height:250px;
+    border-radius:5px;
+}
+.desc{
+    margin-top: 5%;
+}
+.desc p{
+    font-size:18px;
+}
+
+.footer{
+    margin-top:3%;
+}
+.footer__title{
+    font-size:20px;
+    padding-bottom:5px;
+    padding-top:5px;
+    padding: 5%;
+}
+.footer__one{
+    padding-top: 20px;
+    display: flex;
+    gap:5%;
+    background-color:azure;
+    border: radius 30px;;
+}
+.footer__one p{
+    padding:5px;
+}
+.footer__two{
+    margin-top: 3%;
+    text-align: center;
+    color:#002B11;
+}
+
+
+
